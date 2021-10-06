@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "icon": "https://www.communicateschool.co.uk/wp-content/uploads/2015/06/IELTS-logo.jpg",
+        "name": "APPLICATION CONSULTANCY",
+        "description": "Make your organization digital with our solution as you require to make activity transparent for smooth business operation..."
+    },
+    {
+        "id": 2,
+        "icon": "https://www.communicateschool.co.uk/wp-content/uploads/2015/06/IELTS-logo.jpg",
+        "name": "WEB DESIGN & DEVELOPMENT",
+        "description": "An attractive, informative website represent your business well to your target clients. We are ready to build your website as you require.."
+    },
+    {
+        "id": 3,
+        "icon": "https://www.communicateschool.co.uk/wp-content/uploads/2015/06/IELTS-logo.jpg",
+        "name": "APPLICATION IMPLEMENTATION",
+        "description": "Only Proper implementation of any Exclusive Application can gives us accountable output otherwise investment will waste. So Need Expert..."
+    },
+    {
+        "id": 4,
+        "icon": "https://www.communicateschool.co.uk/wp-content/uploads/2015/06/IELTS-logo.jpg",
+        "name": "ICT & Security Solution",
+        "description": "We Supply only Branded and Quality ICT Products. All types of Technology Equipment, Complete security Solution and Service Provider..."
+    },
+    {
+        "id": 5,
+        "icon": "https://www.communicateschool.co.uk/wp-content/uploads/2015/06/IELTS-logo.jpg",
+        "name": "Prototyping",
+        "description": "We draw your dream as per your requirement to make it true. Dream can be for Application Development or any Build any Architectural Solution..."
+    },
+    {
+        "id": 6,
+        "icon": "https://www.communicateschool.co.uk/wp-content/uploads/2015/06/IELTS-logo.jpg",
+        "name": "Art direction",
+        "description": "Art Direction to build your Corporate Profile or Branding your Products/Company. We have long term experienced.."
+    },
+    {
+        "id": 7,
+        "icon": "https://www.communicateschool.co.uk/wp-content/uploads/2015/06/IELTS-logo.jpg",
+        "name": "SEO Service Provide",
+        "description": "As a business organization one needs to place itself one the top rank of search engine result pages. When you become one of the organization stay put the top og google ranking or your brand become more visible. You get more online traffic in organic way, collect more leads, covert more sales thus run a profit-oriented business. Tech Tabeen company provide professional SEO Service."
+    },
+    {
+        "id": 8,
+        "icon": "https://www.communicateschool.co.uk/wp-content/uploads/2015/06/IELTS-logo.jpg",
+        "name": "Business Consultency",
+        "description": "To establish a business there are a lot of legal procedure and Document organizing procedure have to complete. If we know the right path and move in the proper channel then its too easy to setup business. After that when we want to operate it then without proper planning operation cant move forward.NOW Tech Tabeen the right place to start your Dream from the point you stay.."
+    },
+    {
+        "id": 9,
+        "icon": "https://www.communicateschool.co.uk/wp-content/uploads/2015/06/IELTS-logo.jpg",
+        "name": "Intellectual Property (IP) Service & Consultancy",
+        "description": "We are providing Intellectual Property (IP) Service to Protect the rights of your organizational properties, innovation, patent of Physical Invention and Ideas. "
+    }
+]
