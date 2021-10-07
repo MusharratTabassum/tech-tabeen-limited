@@ -10,19 +10,28 @@ const Services = () => {
 
     }, [])
     return (
-        <div className='container'>
-            <h3>Services of Tech Tabeen</h3>
-
-            <h4>Total services we provide : {services.length}</h4>
-            <div className="row row-cols-1 row-cols-md-3 g-4 ">
-
-                {
-                    services.map(service => <Service key={service.id}
-                        service={service}></Service>)
-
-                }
+        <div>
+            <div className='my-5'>
+                <h1 className='text-center'>Our Services</h1>
             </div>
+            <h4>Total services we provide : {services.length}</h4>
+
+            <div className="container-fluid mb-5 ">
+                <div className="row ">
+                    <div className="col-10 mx-auto ">
+                        <div className="row gy-4">
+                            {
+                                services.map(service => <Service key={service.id}
+                                    service={service}></Service>)
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
+
+
     );
 };
 
