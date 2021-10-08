@@ -66,6 +66,10 @@ const Contact = () => {
                     </div>
                 </div>
             </div>
+
+            <div className="find-us">
+                <h2>Find Us</h2>
+            </div>
         </div>
 
     );

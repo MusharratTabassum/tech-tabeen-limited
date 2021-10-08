@@ -1,3 +1,41 @@
-.about{
-    background-color: #f0f6ff;
+* {
+    font-family: "DM Sans",sans-serif;
+}
+
+
+.mission{
+    height: 300px;
+    width: 558px;
+    
+}
+.methodology{
+   
+    height: 300px;
+    width: 558px;
+}
+.vision{
+   
+    width: 558px;
+    height: 300px;
+}
+.mytho-image{
+    width: 558px;
+    height: 300px;
+   
+}
+p {
+    line-height: 1.5;
+    font-size: 18px;
+}
+.from-client{
+    background-color:rgba(135, 206, 250, 0.274) ;
+}
+.heading-border {
+    width: 83px;
+    height: 5px;
+    border-radius: 1px;
+    background: #ff003d;
+}
+.font-weight-bold {
+    font-weight: 700!important;
 }

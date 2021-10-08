@@ -12,7 +12,6 @@ import About from './components/About/About';
 import Services from './components/Services/Services';
 import Contact from './components/Contact/Contact';
 import Banner from './components/Banner/Banner';
-import MapContainer from './components/MapContainer/MapContainer';
 function App() {
   return (
     <div className="App">
@@ -20,11 +19,9 @@ function App() {
         <Header></Header>
         <Switch>
           <Route exact path='/'>
-            <Banner></Banner>
             <Home></Home>
           </Route>
           <Route path='/home'>
-            <Banner></Banner>
             <Home></Home>
           </Route>
           <Route path='/about'>
