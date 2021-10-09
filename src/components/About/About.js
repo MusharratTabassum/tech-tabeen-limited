@@ -52,7 +52,7 @@ const About = () => {
 
 
             </div>
-            <div className="from-client ">
+            <div className="from-client mb-5 mt-4 ">
                 <div className="row">
                     <div className="d-flex align-items-center container ms-5 pt-5 col-md-6 col-sm-12 col-12">
                         <div className="heading-border mr-4"></div>
@@ -67,10 +67,6 @@ const About = () => {
                     </div>
 
                 </div>
-
-
-
-
             </div>
 
         </div>

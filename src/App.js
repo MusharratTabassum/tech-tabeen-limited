@@ -12,6 +12,7 @@ import About from './components/About/About';
 import Services from './components/Services/Services';
 import Contact from './components/Contact/Contact';
 import Banner from './components/Banner/Banner';
+import Footer from './components/Footer/Footer';
 function App() {
   return (
     <div className="App">
@@ -34,6 +35,7 @@ function App() {
             <Contact></Contact>
           </Route>
         </Switch>
+        <Footer></Footer>
       </Router>
     </div>
   );
